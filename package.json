@@ -1,0 +1,19 @@
+{
+  "name": "ad-npm-package",
+  "version": "0.1.0",
+  "description": "package as npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markopi/ad-npm-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markopi/ad-npm-package/issues"
+  },
+  "homepage": "https://github.com/markopi/ad-npm-package#readme"
+}
