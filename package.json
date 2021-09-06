@@ -1,5 +1,5 @@
 {
-  "name": "ad-npm-package",
+  "name": "@markopi/ad-npm-package",
   "version": "0.1.0",
   "description": "package as npm",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/markopi/ad-npm-package/issues"
   },
-  "homepage": "https://github.com/markopi/ad-npm-package#readme"
+  "homepage": "https://github.com/markopi/ad-npm-package#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }

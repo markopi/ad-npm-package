@@ -1,2 +1,2 @@
 # ad-npm-package
-package as npm
+package as npm 2
